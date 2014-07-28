@@ -1,0 +1,4 @@
+#! /bin/env bash
+
+./build/test/test
+python python/tests.py
